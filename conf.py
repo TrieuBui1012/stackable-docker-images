@@ -95,8 +95,8 @@ cache = [
 ]
 
 args = {
-    "STACKABLE_USER_NAME": "stackable",
-    "STACKABLE_USER_UID": "1000",
-    "STACKABLE_USER_GID": "1000",
+    "STACKABLE_USER_NAME": "hbase-voltemon",
+    "STACKABLE_USER_UID": "1038",
+    "STACKABLE_USER_GID": "1039",
     "DELETE_CACHES": "true",
 }
